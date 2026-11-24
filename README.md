@@ -1,4 +1,4 @@
-
+﻿
 # PUSL3205 – Large Language Models and Generative AI
 ## Practical Portfolio
 
@@ -21,7 +21,7 @@ The portfolio demonstrates the practical application of Natural Language Process
 | Lab 01 | [Sentiment Analysis](./Lab-01-Machine-Learning/) | Text Preprocessing, BoW, TF-IDF, Logistic Regression | Jupyter Notebook, Graphs, Confusion Matrices, Screenshots | Completed |
 | Lab 02 | [AI in Everyday Challenges](./Lab-02-LLM-Everyday-Life/) | LLM-Assisted Product Development, Prompt Engineering, Visual Prototyping | Product Concept, Visual Mock-up, Activity Documentation | Completed |
 | Lab 03 | [Tiny Transformer](./Lab-03-Tiny-Transformer/) | Character Tokenization, Multi-Head Attention, Transformer Architecture, Perplexity | Jupyter Notebook, Loss Curves, Trained Models, Generated Stories | Completed |
-| Lab 04 | Fine-Tuning | LLM Fine-Tuning | Pending | Upcoming |
+| Lab 04 | [LLM Fine-Tuning Using LoRA](./Lab-04-Fine-Tuning/) | LoRA, PEFT, Supervised Fine-Tuning, Assistant-Only Loss | Jupyter Notebook, Datasets, Trained Adapters, Evaluation Results, Graphs | Completed |
 | Lab 05 | RAG Pipeline | Embeddings and Retrieval-Augmented Generation | Pending | Upcoming |
 | Lab 06 | AI Agents | Agent-Based AI Systems | Pending | Upcoming |
 
@@ -29,10 +29,14 @@ The portfolio demonstrates the practical application of Natural Language Process
 
 - Python 3
 - Google Colab
+- Kaggle Notebooks
 - Jupyter Notebook
 - Pandas
 - Scikit-learn
 - Matplotlib
+- PyTorch
+- Hugging Face Transformers
+- PEFT and TRL
 - Git and GitHub
 
 ## Portfolio Objectives
@@ -48,8 +52,9 @@ The portfolio demonstrates the practical application of Natural Language Process
 - [x] Lab 01 – Sentiment Analysis
 - [x] Lab 02 – LLMs in Everyday Life
 - [x] Lab 03 – Tiny Transformer
-- [ ] Lab 04 – Fine-Tuning
+- [x] Lab 04 - Fine-Tuning
 - [ ] Lab 05 – RAG Pipeline
 - [ ] Lab 06 – AI Agents
 - [ ] Final Reflection
+
 

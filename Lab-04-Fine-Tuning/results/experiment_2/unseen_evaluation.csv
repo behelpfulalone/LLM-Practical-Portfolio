@@ -1,0 +1,11 @@
+question,expected_answer,fine_tuned_response,correct
+Are you open for business on Sundays?,"No, closed on Sundays","No, TechNova Computers is closed on Sundays.",1
+How much would it cost to ship my order to Kandy?,LKR 1000,"Yes, shipments within Kandy cost LKR 500.",0
+How much do you charge to diagnose a faulty computer?,LKR 1500,Standard computer diagnoses cost LKR 3000.,0
+Can I purchase a second-hand refurbished laptop?,"No, refurbished products are not sold","No, TechNova Computers only sells new laptops.",1
+How much does internal cleaning of a laptop cost?,LKR 2500,Internal laptop cleaning costs LKR 3000.,0
+How long will it take to assemble my custom gaming PC?,Three to five working days,Custom gaming PC assembly usually takes three to five working days.,1
+Can I settle my bill using a Mastercard?,Yes,"Yes, Mastercard accepts payments.",1
+How long is a product reservation valid?,48 hours,All product reservations are valid for 48 hours.,1
+Do computer accessories come with a warranty?,Six months,"Yes, computer accessories include a six-month warranty.",1
+Can I exchange my old computer for a new one?,"No, trade-ins are not available","No, TechNova Computers does not currently offer trade-in services.",1

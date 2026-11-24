@@ -1,0 +1,22 @@
+{
+    "base_model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+    "fine_tuning_method": "LoRA",
+    "training_framework": "PyTorch",
+    "original_dataset_size": 50,
+    "expanded_dataset_size": 250,
+    "trainable_parameters": 8683520,
+    "trainable_percentage": 2.3437,
+    "epochs": 10,
+    "batch_size": 4,
+    "learning_rate": 0.0002,
+    "training_steps": 630,
+    "training_duration_seconds": 168.44,
+    "peak_gpu_memory_gb": 1.93,
+    "average_training_loss": 0.1533,
+    "final_epoch_loss": 0.0011261900894284722,
+    "original_model_accuracy": 0.2,
+    "experiment_1_accuracy": 0.0,
+    "experiment_2_targeted_accuracy": 1.0,
+    "experiment_2_unseen_accuracy": 0.7,
+    "experiment_2_combined_accuracy": 0.8
+}
