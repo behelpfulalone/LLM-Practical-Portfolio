@@ -1,9 +1,21 @@
-# Design Discussion Summary
+# Individual Discussion and Ideation Summary
 
-This records the student–LLM design exchange, not an independently verified group meeting.
+## Selected Challenge
 
-The student requested selection of one straightforward challenge and development of its solution. ChatGPT selected Group 5 because a mobile planner can be represented through a visual prototype without specialised hardware or model training. The resulting concept combines scheduling, task prioritisation, reminders and progress tracking.
+Group 5 – The Busy Student.
 
-Design considerations include preserving fixed lecture times, avoiding overlapping tasks, allowing students to approve schedule changes and protecting personal information.
+## Ideation Process
 
-Add any actual group discussion or feedback here if applicable.
+ChatGPT was used as a product-development partner to explore solutions for student time management and academic workload challenges.
+
+## Key Decisions
+
+- Develop an AI-powered student productivity application.
+- Name the product CampusFlow AI.
+- Focus on university students as the primary target audience.
+- Include intelligent scheduling, task prioritisation, deadline reminders and progress tracking.
+- Create a visual mobile application prototype using generative AI.
+
+## Conclusion
+
+The individual ideation process resulted in a product concept and visual prototype addressing everyday student time management challenges.
