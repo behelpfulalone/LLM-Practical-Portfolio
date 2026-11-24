@@ -1,0 +1,6 @@
+Sentence,BoW,TF-IDF
+The product is excellent and works perfectly.,Positive,Positive
+The service was terrible and disappointing.,Negative,Negative
+I would definitely recommend this restaurant.,Positive,Positive
+I regret buying this phone.,Negative,Negative
+The food was not good.,Negative,Negative
