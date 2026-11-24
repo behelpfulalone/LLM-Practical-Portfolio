@@ -1,9 +1,11 @@
-# Group Members
+# Activity Participant
 
-**Challenge:** Group 5 – The Busy Student
+**Selected Challenge:** Group 5 – The Busy Student
 
-Add the actual participant names and student numbers here before submission. No group membership has been assumed.
+**Participation Type:** Individual Activity
 
-| Name | Student Number |
-|---|---|
-| To be confirmed | To be confirmed |
+| Student Name | Student Number | Role |
+|---|---|---|
+| M.M.C.D Bandara | 10965093 | Product Concept, Research and Design |
+
+This activity was completed individually using ChatGPT as an LLM-assisted product-development partner.
