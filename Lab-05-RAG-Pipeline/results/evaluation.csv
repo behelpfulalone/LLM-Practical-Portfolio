@@ -1,0 +1,9 @@
+﻿Test_ID,Question,Expected_Answer,Actual_Answer,Status
+1,Minimum attendance requirement,80%,80%,PASS
+2,Annual AI degree tuition fee,LKR 450000,LKR 450000,PASS
+3,IT help desk location,"Building C Room 204","Building C Room 204",PASS
+4,Library borrowing limit,6 books for 14 days,6 books for 14 days,PASS
+5,University vice chancellor,Information unavailable,Information unavailable,PASS
+6,Innovation Excellence Scholarship,LKR 175000,LKR 175000,PASS
+7,Examination resit fee,LKR 7500 per module,LKR 7500 per module,PASS
+8,Scholarship deadline and resit fee,August 20 and LKR 7500 per module,August 20 and LKR 7500 per module,PASS
