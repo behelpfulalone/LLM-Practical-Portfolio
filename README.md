@@ -22,7 +22,7 @@ The portfolio demonstrates the practical application of Natural Language Process
 | Lab 03 | [Tiny Transformer](./Lab-03-Tiny-Transformer/) | Character Tokenization, Multi-Head Attention, Transformer Architecture, Perplexity | Jupyter Notebook, Loss Curves, Trained Models, Generated Stories | Completed |
 | Lab 04 | [LLM Fine-Tuning Using LoRA](./Lab-04-Fine-Tuning/) | LoRA, PEFT, Supervised Fine-Tuning, Assistant-Only Loss | Jupyter Notebook, Datasets, Trained Adapters, Evaluation Results, Graphs | Completed |
 | Lab 05 | [RAG Pipeline](./Lab-05-RAG-Pipeline/) | Vector Embeddings, Semantic Retrieval, ChromaDB, Local LLM Inference, Multi-PDF Question Answering | Python Source Code, PDF Documents, Streamlit Chatbot, Evaluation Results, Screenshots | Completed |
-| Lab 06 | AI Agents | Agent-Based AI Systems | Pending | Upcoming |
+| Lab 06 | [AI Agents](./Lab-06-AI-Agents/) | Tool-Using Agents, SQLite Memory, RAG, Google Workspace APIs | Jupyter Notebook, Experimental Results, Screenshots | Prototype Completed |
 
 ## Environment and Tools
 
@@ -43,6 +43,9 @@ The portfolio demonstrates the practical application of Natural Language Process
 - ChromaDB
 - PyMuPDF
 - Streamlit
+- SQLite
+- Google Workspace APIs
+- Google OAuth 2.0
 - Git and GitHub
 
 ## Portfolio Objectives
@@ -60,5 +63,7 @@ The portfolio demonstrates the practical application of Natural Language Process
 - [x] Lab 03 – Tiny Transformer
 - [x] Lab 04 – Fine-Tuning
 - [x] Lab 05 – RAG Pipeline
-- [ ] Lab 06 – AI Agents
-- [ ] Final Reflection
+- [x] Lab 06 – AI Agents
+- [x] [Final Reflection](./Final-Reflection.md)
+
+
